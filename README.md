@@ -1,1 +1,1 @@
-# els_students
+# Student Email Generator
